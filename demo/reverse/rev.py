@@ -1,0 +1,5 @@
+str1 =
+"\x1d\x13\x10\x18\x51\x4c\x4f\x1c\x12\x51\x0b\x08\x50\x51\x50\x51\x50\x51\x50"
+str2 = "[_Q_*\x1c\nC3\x02TM\x11\x02\t,pqp"
+print(''.join(chr(ord(i)^ord(j)) for i, j in zip(str1, str2)))
+# FLAG{PE_!S_EASY}
