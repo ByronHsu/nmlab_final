@@ -10,5 +10,8 @@
 
 2. demo<br>
     含 demo 影片講解的三題題目與解答
+
 3. poster<br>
-    就海報    
+    就海報   
+
+4. [demo 影片連結](https://www.youtube.com/watch?v=jL_BcVTjpsg)
